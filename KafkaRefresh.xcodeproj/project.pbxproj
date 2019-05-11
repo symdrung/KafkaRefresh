@@ -9,43 +9,43 @@
 /* Begin PBXBuildFile section */
 		544F9017227F0EBB005BB3DC /* KafkaRefresh.h in Headers */ = {isa = PBXBuildFile; fileRef = 544F9015227F0EBB005BB3DC /* KafkaRefresh.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		544F905B227F0FC6005BB3DC /* KafkaRefreshDefaults.m in Sources */ = {isa = PBXBuildFile; fileRef = 544F902C227F0FC6005BB3DC /* KafkaRefreshDefaults.m */; };
-		544F905C227F0FC6005BB3DC /* KafkaRefreshDefaults.h in Headers */ = {isa = PBXBuildFile; fileRef = 544F902D227F0FC6005BB3DC /* KafkaRefreshDefaults.h */; };
-		544F905D227F0FC6005BB3DC /* KafkaCategories.h in Headers */ = {isa = PBXBuildFile; fileRef = 544F902F227F0FC6005BB3DC /* KafkaCategories.h */; };
+		544F905C227F0FC6005BB3DC /* KafkaRefreshDefaults.h in Headers */ = {isa = PBXBuildFile; fileRef = 544F902D227F0FC6005BB3DC /* KafkaRefreshDefaults.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		544F905D227F0FC6005BB3DC /* KafkaCategories.h in Headers */ = {isa = PBXBuildFile; fileRef = 544F902F227F0FC6005BB3DC /* KafkaCategories.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		544F905E227F0FC6005BB3DC /* KafkaCategories.m in Sources */ = {isa = PBXBuildFile; fileRef = 544F9030227F0FC6005BB3DC /* KafkaCategories.m */; };
-		544F905F227F0FC6005BB3DC /* KafkaNativeFooter.h in Headers */ = {isa = PBXBuildFile; fileRef = 544F9033227F0FC6005BB3DC /* KafkaNativeFooter.h */; };
-		544F9060227F0FC6005BB3DC /* KafkaRingIndicatorFooter.h in Headers */ = {isa = PBXBuildFile; fileRef = 544F9034227F0FC6005BB3DC /* KafkaRingIndicatorFooter.h */; };
-		544F9061227F0FC6005BB3DC /* KafkaArrowFooter.h in Headers */ = {isa = PBXBuildFile; fileRef = 544F9035227F0FC6005BB3DC /* KafkaArrowFooter.h */; };
-		544F9062227F0FC6005BB3DC /* KafkaReplicatorFooter.h in Headers */ = {isa = PBXBuildFile; fileRef = 544F9036227F0FC6005BB3DC /* KafkaReplicatorFooter.h */; };
+		544F905F227F0FC6005BB3DC /* KafkaNativeFooter.h in Headers */ = {isa = PBXBuildFile; fileRef = 544F9033227F0FC6005BB3DC /* KafkaNativeFooter.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		544F9060227F0FC6005BB3DC /* KafkaRingIndicatorFooter.h in Headers */ = {isa = PBXBuildFile; fileRef = 544F9034227F0FC6005BB3DC /* KafkaRingIndicatorFooter.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		544F9061227F0FC6005BB3DC /* KafkaArrowFooter.h in Headers */ = {isa = PBXBuildFile; fileRef = 544F9035227F0FC6005BB3DC /* KafkaArrowFooter.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		544F9062227F0FC6005BB3DC /* KafkaReplicatorFooter.h in Headers */ = {isa = PBXBuildFile; fileRef = 544F9036227F0FC6005BB3DC /* KafkaReplicatorFooter.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		544F9063227F0FC6005BB3DC /* KafkaNativeFooter.m in Sources */ = {isa = PBXBuildFile; fileRef = 544F9037227F0FC6005BB3DC /* KafkaNativeFooter.m */; };
 		544F9064227F0FC6005BB3DC /* KafkaRingIndicatorFooter.m in Sources */ = {isa = PBXBuildFile; fileRef = 544F9038227F0FC6005BB3DC /* KafkaRingIndicatorFooter.m */; };
 		544F9065227F0FC6005BB3DC /* KafkaReplicatorFooter.m in Sources */ = {isa = PBXBuildFile; fileRef = 544F9039227F0FC6005BB3DC /* KafkaReplicatorFooter.m */; };
 		544F9066227F0FC6005BB3DC /* KafkaArrowFooter.m in Sources */ = {isa = PBXBuildFile; fileRef = 544F903A227F0FC6005BB3DC /* KafkaArrowFooter.m */; };
-		544F9067227F0FC6005BB3DC /* KafkaNativeHeader.h in Headers */ = {isa = PBXBuildFile; fileRef = 544F903C227F0FC6005BB3DC /* KafkaNativeHeader.h */; };
-		544F9068227F0FC6005BB3DC /* KafkaRingIndicatorHeader.h in Headers */ = {isa = PBXBuildFile; fileRef = 544F903D227F0FC6005BB3DC /* KafkaRingIndicatorHeader.h */; };
-		544F9069227F0FC6005BB3DC /* KafkaReplicatorHeader.h in Headers */ = {isa = PBXBuildFile; fileRef = 544F903E227F0FC6005BB3DC /* KafkaReplicatorHeader.h */; };
-		544F906A227F0FC6005BB3DC /* KafkaArrowHeader.h in Headers */ = {isa = PBXBuildFile; fileRef = 544F903F227F0FC6005BB3DC /* KafkaArrowHeader.h */; };
+		544F9067227F0FC6005BB3DC /* KafkaNativeHeader.h in Headers */ = {isa = PBXBuildFile; fileRef = 544F903C227F0FC6005BB3DC /* KafkaNativeHeader.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		544F9068227F0FC6005BB3DC /* KafkaRingIndicatorHeader.h in Headers */ = {isa = PBXBuildFile; fileRef = 544F903D227F0FC6005BB3DC /* KafkaRingIndicatorHeader.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		544F9069227F0FC6005BB3DC /* KafkaReplicatorHeader.h in Headers */ = {isa = PBXBuildFile; fileRef = 544F903E227F0FC6005BB3DC /* KafkaReplicatorHeader.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		544F906A227F0FC6005BB3DC /* KafkaArrowHeader.h in Headers */ = {isa = PBXBuildFile; fileRef = 544F903F227F0FC6005BB3DC /* KafkaArrowHeader.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		544F906B227F0FC6005BB3DC /* KafkaNativeHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = 544F9040227F0FC6005BB3DC /* KafkaNativeHeader.m */; };
 		544F906C227F0FC6005BB3DC /* KafkaRingIndicatorHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = 544F9041227F0FC6005BB3DC /* KafkaRingIndicatorHeader.m */; };
 		544F906D227F0FC6005BB3DC /* KafkaArrowHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = 544F9042227F0FC6005BB3DC /* KafkaArrowHeader.m */; };
 		544F906E227F0FC6005BB3DC /* KafkaReplicatorHeader.m in Sources */ = {isa = PBXBuildFile; fileRef = 544F9043227F0FC6005BB3DC /* KafkaReplicatorHeader.m */; };
 		544F906F227F0FC6005BB3DC /* KafkaReplicatorLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 544F9045227F0FC6005BB3DC /* KafkaReplicatorLayer.m */; };
 		544F9070227F0FC6005BB3DC /* KafkaArcLayer.m in Sources */ = {isa = PBXBuildFile; fileRef = 544F9046227F0FC6005BB3DC /* KafkaArcLayer.m */; };
-		544F9071227F0FC6005BB3DC /* KafkaArcLayer.h in Headers */ = {isa = PBXBuildFile; fileRef = 544F9047227F0FC6005BB3DC /* KafkaArcLayer.h */; };
-		544F9072227F0FC6005BB3DC /* KafkaReplicatorLayer.h in Headers */ = {isa = PBXBuildFile; fileRef = 544F9048227F0FC6005BB3DC /* KafkaReplicatorLayer.h */; };
-		544F9073227F0FC6005BB3DC /* KafkaAnimatableProtocol.h in Headers */ = {isa = PBXBuildFile; fileRef = 544F9049227F0FC6005BB3DC /* KafkaAnimatableProtocol.h */; };
+		544F9071227F0FC6005BB3DC /* KafkaArcLayer.h in Headers */ = {isa = PBXBuildFile; fileRef = 544F9047227F0FC6005BB3DC /* KafkaArcLayer.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		544F9072227F0FC6005BB3DC /* KafkaReplicatorLayer.h in Headers */ = {isa = PBXBuildFile; fileRef = 544F9048227F0FC6005BB3DC /* KafkaReplicatorLayer.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		544F9073227F0FC6005BB3DC /* KafkaAnimatableProtocol.h in Headers */ = {isa = PBXBuildFile; fileRef = 544F9049227F0FC6005BB3DC /* KafkaAnimatableProtocol.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		544F9074227F0FC6005BB3DC /* KafkaHeadRefreshControl.m in Sources */ = {isa = PBXBuildFile; fileRef = 544F904B227F0FC6005BB3DC /* KafkaHeadRefreshControl.m */; };
 		544F9075227F0FC6005BB3DC /* KafkaRefreshControl.m in Sources */ = {isa = PBXBuildFile; fileRef = 544F904C227F0FC6005BB3DC /* KafkaRefreshControl.m */; };
-		544F9076227F0FC6005BB3DC /* KafkaRefreshProtocol.h in Headers */ = {isa = PBXBuildFile; fileRef = 544F904D227F0FC6005BB3DC /* KafkaRefreshProtocol.h */; };
+		544F9076227F0FC6005BB3DC /* KafkaRefreshProtocol.h in Headers */ = {isa = PBXBuildFile; fileRef = 544F904D227F0FC6005BB3DC /* KafkaRefreshProtocol.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		544F9077227F0FC6005BB3DC /* KafkaFootRefreshControl.m in Sources */ = {isa = PBXBuildFile; fileRef = 544F904E227F0FC6005BB3DC /* KafkaFootRefreshControl.m */; };
-		544F9078227F0FC6005BB3DC /* UIScrollView+KafkaRefreshControl.h in Headers */ = {isa = PBXBuildFile; fileRef = 544F904F227F0FC6005BB3DC /* UIScrollView+KafkaRefreshControl.h */; };
-		544F9079227F0FC6005BB3DC /* KafkaHeadRefreshControl.h in Headers */ = {isa = PBXBuildFile; fileRef = 544F9050227F0FC6005BB3DC /* KafkaHeadRefreshControl.h */; };
-		544F907A227F0FC6005BB3DC /* KafkaFootRefreshControl.h in Headers */ = {isa = PBXBuildFile; fileRef = 544F9051227F0FC6005BB3DC /* KafkaFootRefreshControl.h */; };
-		544F907B227F0FC6005BB3DC /* KafkaRefreshControl.h in Headers */ = {isa = PBXBuildFile; fileRef = 544F9052227F0FC6005BB3DC /* KafkaRefreshControl.h */; };
+		544F9078227F0FC6005BB3DC /* UIScrollView+KafkaRefreshControl.h in Headers */ = {isa = PBXBuildFile; fileRef = 544F904F227F0FC6005BB3DC /* UIScrollView+KafkaRefreshControl.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		544F9079227F0FC6005BB3DC /* KafkaHeadRefreshControl.h in Headers */ = {isa = PBXBuildFile; fileRef = 544F9050227F0FC6005BB3DC /* KafkaHeadRefreshControl.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		544F907A227F0FC6005BB3DC /* KafkaFootRefreshControl.h in Headers */ = {isa = PBXBuildFile; fileRef = 544F9051227F0FC6005BB3DC /* KafkaFootRefreshControl.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		544F907B227F0FC6005BB3DC /* KafkaRefreshControl.h in Headers */ = {isa = PBXBuildFile; fileRef = 544F9052227F0FC6005BB3DC /* KafkaRefreshControl.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		544F907C227F0FC6005BB3DC /* UIScrollView+KafkaRefreshControl.m in Sources */ = {isa = PBXBuildFile; fileRef = 544F9053227F0FC6005BB3DC /* UIScrollView+KafkaRefreshControl.m */; };
 		544F907D227F0FC6005BB3DC /* UIScrollView+KafkaConfiguration.m in Sources */ = {isa = PBXBuildFile; fileRef = 544F9055227F0FC6005BB3DC /* UIScrollView+KafkaConfiguration.m */; };
-		544F907E227F0FC6005BB3DC /* UIScrollView+KafkaConfiguration.h in Headers */ = {isa = PBXBuildFile; fileRef = 544F9056227F0FC6005BB3DC /* UIScrollView+KafkaConfiguration.h */; };
+		544F907E227F0FC6005BB3DC /* UIScrollView+KafkaConfiguration.h in Headers */ = {isa = PBXBuildFile; fileRef = 544F9056227F0FC6005BB3DC /* UIScrollView+KafkaConfiguration.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		544F907F227F0FC6005BB3DC /* Image.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 544F9058227F0FC6005BB3DC /* Image.bundle */; };
-		544F9080227F0FC6005BB3DC /* KafkaRefreshStyle.h in Headers */ = {isa = PBXBuildFile; fileRef = 544F905A227F0FC6005BB3DC /* KafkaRefreshStyle.h */; };
+		544F9080227F0FC6005BB3DC /* KafkaRefreshStyle.h in Headers */ = {isa = PBXBuildFile; fileRef = 544F905A227F0FC6005BB3DC /* KafkaRefreshStyle.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -253,15 +253,18 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				544F9078227F0FC6005BB3DC /* UIScrollView+KafkaRefreshControl.h in Headers */,
+				544F907A227F0FC6005BB3DC /* KafkaFootRefreshControl.h in Headers */,
+				544F9079227F0FC6005BB3DC /* KafkaHeadRefreshControl.h in Headers */,
+				544F907E227F0FC6005BB3DC /* UIScrollView+KafkaConfiguration.h in Headers */,
 				544F9076227F0FC6005BB3DC /* KafkaRefreshProtocol.h in Headers */,
 				544F9080227F0FC6005BB3DC /* KafkaRefreshStyle.h in Headers */,
+				544F905C227F0FC6005BB3DC /* KafkaRefreshDefaults.h in Headers */,
 				544F9017227F0EBB005BB3DC /* KafkaRefresh.h in Headers */,
 				544F907B227F0FC6005BB3DC /* KafkaRefreshControl.h in Headers */,
 				544F9069227F0FC6005BB3DC /* KafkaReplicatorHeader.h in Headers */,
-				544F907E227F0FC6005BB3DC /* UIScrollView+KafkaConfiguration.h in Headers */,
 				544F9060227F0FC6005BB3DC /* KafkaRingIndicatorFooter.h in Headers */,
 				544F906A227F0FC6005BB3DC /* KafkaArrowHeader.h in Headers */,
-				544F907A227F0FC6005BB3DC /* KafkaFootRefreshControl.h in Headers */,
 				544F9061227F0FC6005BB3DC /* KafkaArrowFooter.h in Headers */,
 				544F9068227F0FC6005BB3DC /* KafkaRingIndicatorHeader.h in Headers */,
 				544F9071227F0FC6005BB3DC /* KafkaArcLayer.h in Headers */,
@@ -270,9 +273,6 @@
 				544F905D227F0FC6005BB3DC /* KafkaCategories.h in Headers */,
 				544F9072227F0FC6005BB3DC /* KafkaReplicatorLayer.h in Headers */,
 				544F9073227F0FC6005BB3DC /* KafkaAnimatableProtocol.h in Headers */,
-				544F9078227F0FC6005BB3DC /* UIScrollView+KafkaRefreshControl.h in Headers */,
-				544F905C227F0FC6005BB3DC /* KafkaRefreshDefaults.h in Headers */,
-				544F9079227F0FC6005BB3DC /* KafkaHeadRefreshControl.h in Headers */,
 				544F9067227F0FC6005BB3DC /* KafkaNativeHeader.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
